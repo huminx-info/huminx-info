@@ -146,7 +146,9 @@ Before I build anything, I ask:
 |---|---|
 | 🌐 Website | [huminx.id.vn](https://huminx.id.vn) |
 | ✉️ Email | [minx@huminx.id.vn](mailto:minx@huminx.id.vn) |
-| 🚢 Live Project | [vestalshipping.com.vn](https://vestalshipping.com.vn) |
+| 🚢 DEMO Project | [Demo Web Logistic](https://huminx.id.vn/demoweblogistic/) |
+| 🚢 DEMO Project | [Demo Web Shop bánh tráng](https://huminx.id.vn/demowebbanhang/) |
+| 🚢 DEMO Project | [Demo Web Bất động sản](https://bds.huminx.id.vn/) |
 | 📍 Location | Ho Chi Minh City, Vietnam |
 
 ---
